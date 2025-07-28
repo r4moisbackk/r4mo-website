@@ -20,7 +20,7 @@ export default function App() {
 
         <header className="text-center mb-10">
           <img
-            src="https://cdn.discordapp.com/avatars/YOUR_ID/YOUR_AVATAR.webp"
+            src="https://cdn.discordapp.com/avatars/1165634730755112982/3f1a6c2ba64b5f93db72f62d69e5a4f2.webp"
             alt="Avatar"
             className="w-32 h-32 rounded-full mx-auto border-4 border-blue-500 shadow-lg animate__animated animate__fadeIn"
           />
