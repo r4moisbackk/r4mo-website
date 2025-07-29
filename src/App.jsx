@@ -20,8 +20,8 @@ export default function App() {
 
         <header className="text-center mb-10">
           <img
-            src="https://cdn.discordapp.com/avatars/1165634730755112982/3f1a6c2ba64b5f93db72f62d69e5a4f2.webp"
-            alt="Avatar"
+            src="https://cdn.discordapp.com/avatars/1165634730755112982/06b37b6359a590e17d038d3f95afcc03.webp"
+            alt="R4mo."
             className="w-32 h-32 rounded-full mx-auto border-4 border-blue-500 shadow-lg animate__animated animate__fadeIn"
           />
           <h1 className="text-4xl font-bold mt-4 animate__animated animate__fadeInUp">Ramazan | RZ#0001</h1>
